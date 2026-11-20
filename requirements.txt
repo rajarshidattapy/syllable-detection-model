@@ -10,3 +10,4 @@ modelscope
 scikit-learn
 pandas
 numpy
+laya>=0.5
