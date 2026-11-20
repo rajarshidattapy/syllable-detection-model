@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+checkpoints/
+data/
+wandb/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
