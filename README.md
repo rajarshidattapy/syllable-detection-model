@@ -5,7 +5,8 @@ non-lexical sounds ("hmm", "uh", "ah", stutters, false starts), understand the
 feelings behind them, and turn that into the right conversational decision -
 instead of stripping those sounds out of the transcript.
 
-Built for [Dani](https://dani.danlab.dev).
+<img width="1672" height="941" alt="Syllable Detection Model Flow" src="https://github.com/user-attachments/assets/4f256e11-0faf-437a-94ed-41b34e63d604" />
+
 
 ## The idea
 
